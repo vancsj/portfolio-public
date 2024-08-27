@@ -4,7 +4,8 @@
     <title>Tags on Portfolio of Chen Shujie</title>
     <link>https://vancsj.github.io/portfolio-public/tags/</link>
     <description>Recent content in Tags on Portfolio of Chen Shujie</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://vancsj.github.io/portfolio-public/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vancsj.github.io/portfolio-public/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
